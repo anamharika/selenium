@@ -1,0 +1,12 @@
+<suite name ="suite1">
+	<test name ="test1">
+		<classess>
+		
+			<class name="testngpack.class1"></class>
+			<class name="testngpack.class2"></class>
+			<class name="testngpack.class3"></class>
+			
+		</classess>
+	</test>
+	
+</suite>
