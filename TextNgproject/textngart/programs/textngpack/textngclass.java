@@ -1,4 +1,19 @@
 package textngpack;
+import io.restassured.specification.RequestSpecification;
+Please note the correct spelling of "restassured" with two 's' characters in the middle. Ensure that you have the RestAssured library properly added to your project's dependencies, and you should be able to use the RequestSpecification class as shown above.
+
+
+
+
+Was this response better or worse?
+
+Better
+
+Worse
+
+Same
+
+
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;

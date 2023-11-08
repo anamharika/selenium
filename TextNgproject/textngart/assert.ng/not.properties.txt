@@ -1,2 +1,6 @@
-name = harika
-pwd = hari@123
+
+browser = chrome
+url = http://localhost:8888/index.php?action=index&module=Home
+
+name = admin
+pwd = admin
